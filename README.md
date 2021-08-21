@@ -1,4 +1,4 @@
-# IMS-Bearing-Vibration-Signals-Classification
+# Extracting Failure Modes from Vibration Signals: NASA/IMS Bearing Dataset
 Introduction
 ============
 
