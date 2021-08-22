@@ -68,7 +68,7 @@ have been proposed per file:
         2003.11.22.17.36.56
     -   Stage 2 failure: 2003.11.22.17.46.56 - 2003.11.25.23.39.56
 
-As you understand, our purpose here is to make a classifier that imitate
+As you understand, our purpose here is to make a classifier that imitates
 the expert’s opinion about the bearings’ health state. Let’s proceed:
 
 Exploratory Analysis
