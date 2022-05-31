@@ -1,4 +1,4 @@
-# Extracting Failure Modes from Vibration Signals: NASA/IMS Bearing Dataset
+# Extracting Failure Modes from Vibration Signals
 Introduction
 ============
 
