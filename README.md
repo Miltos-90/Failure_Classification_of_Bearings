@@ -1,5 +1,6 @@
 # Extracting Failure Modes from Vibration Signals
-##Introduction
+
+## Introduction
 ============
 
 The data we’ll be using for this project comes from the Prognostics Data
