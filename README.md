@@ -1,9 +1,10 @@
 # Extracting Failure Modes from Vibration Signals
 
 ## Introduction
-============
 
-The data we’ll be using for this project comes from the Prognostics Data
+The scope of this work is to classify failure modes of rolling element bearings
+using recorded vibration signals.
+The data used comes from the Prognostics Data
 Repository hosted by
 [NASA](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/),
 and was made available by the Center of Intelligent Maintenance Systems
